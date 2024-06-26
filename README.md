@@ -9,12 +9,12 @@ Bike Sharing Assignment as part of Upgrad IIIT Bengaluru course in Machine Learn
 
 ## General Information
 - **Business Understanding**: A US bike-sharing provider **BoomBikes** have contracted a consulting company to understand the factors on which the demand of their shared bikes depends. Specifically, they want to understand the factors affecting the demand for the shared bikes in the American market. The company wants to know:
- - Which variables are significant in predicting the demand for shared bikes
- - How well those variables describe the bike demands
+  - Which variables are significant in predicting the demand for shared bikes
+  - How well those variables describe the bike demands
 
 - **Problem Statement**: We are required to model the demand for shared bikes for BoomBikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
-- **Dataset**: In the dataset provided, there are three columns named 'casual', 'registered', and 'cnt'. The variable 'casual' indicates the number casual users who have made a rental. The variable 'registered' shows the total number of registered users who have made a booking on a given day. The 'cnt' variable indicates the total number of bike rentals, including both casual and registered. 'cnt' is the target variable for building the model and predicting the demand of bike sharing.
+- **Dataset**: In the dataset provided, there are three columns named 'casual', 'registered', and 'cnt'. The variable 'casual' indicates the number of casual users who have made a rental. The variable 'registered' shows the total number of registered users who have made a booking on a given day. The 'cnt' variable indicates the total number of bike rentals, including both casual and registered. 'cnt' is the target variable for building the model and predicting the demand of bike sharing.
 
 ## Technologies Used
 - pandas - version 2.1.4
